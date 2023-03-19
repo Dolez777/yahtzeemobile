@@ -4,7 +4,7 @@ import { StyleSheet, View, Text } from 'react-native';
 const Footer = () => {
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>© 2023 Yahtzee App</Text>
+      <Text style={styles.text}>Author: Teemu Välimäki</Text>
     </View>
   );
 };
